@@ -1,0 +1,12 @@
+onboarding = false
+
+[keys]
+prefix = "ctrl+space"
+zoom = ["prefix+z", "prefix+f"]
+
+[theme]
+name = "dracula"
+auto_switch = false
+
+[ui.toast]
+delivery = "system"
