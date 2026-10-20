@@ -10,3 +10,6 @@ auto_switch = false
 
 [ui.toast]
 delivery = "system"
+
+[terminal]
+default_shell = "pwsh"
