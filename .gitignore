@@ -4,6 +4,7 @@
 # Track portable configuration
 !/.gitignore
 !/config.toml
+!/center-active-pane.ps1
 
 # Optional documentation
 !/README.md
